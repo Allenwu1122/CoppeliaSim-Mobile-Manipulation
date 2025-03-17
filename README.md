@@ -12,7 +12,7 @@ The project includes three distinct cases: **Best Case**, **Overshoot**, and **N
 
 In the **Best Case** scenario, the youBot executes the task with optimal trajectory tracking and minimal error, successfully picking, transporting, and placing the block as intended.
 
-![Demo](https://github.com/Allenwu1122/CoppeliaSim-Mobile-Manipulation/tree/main/recording/Best_Recording.gif)
+![Demo Gif](https://github.com/Allenwu1122/CoppeliaSim-Mobile-Manipulation/tree/main/recording/Best_Recording.gif)
 
 ### Overshoot
 
